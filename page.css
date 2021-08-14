@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Helvetica Neue';
+}
+.lightmode {
+    background: white;
+}
+.darkmode {
+    background: black;
+    transition: all 0.2s ease-in-out;
+}
+main {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+button {
+    margin-bottom: 10px;
+    height: 20px;
+    width: 100px;
+    border: none;
+    position: relative;
+    color: white;
+    background: black;
+    transition: all 0.2s ease-in-out;
+}
+p {
+    padding: 0 15px;
+    color: #222222;
+}
+.darkmode h1 {
+    color: #CA3216;
+}
+.darkmode p {
+    color: #FFFFFF;
+}
+.darkmode button {
+    color: black;
+    background: white;
+}
