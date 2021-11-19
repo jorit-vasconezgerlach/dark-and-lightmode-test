@@ -3,7 +3,7 @@
 ## General Information
 **Preview** [open](https://jorit.vasconezgerlach.de/host/dark-and-lightmode-test-git/)\
 **Licence** Free to copy, edit and share\
-**Languages** PHP, HTML, CSS
+**Languages** JS, HTML, CSS
 
 ## About Creator
 Jorit Vásconez Gerlach\
